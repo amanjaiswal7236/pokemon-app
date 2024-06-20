@@ -1,4 +1,3 @@
-```markdown
 # Pokémon React App
 
 This is a small React application that displays data from the [PokeAPI](https://pokeapi.co/api/v2/pokemon). The app allows users to view Pokémon in card format, search for Pokémon by name, and view detailed information about each Pokémon by clicking on a card. The project is built with React, Vite, and Tailwind CSS.
